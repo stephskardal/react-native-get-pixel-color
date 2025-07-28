@@ -26,10 +26,10 @@
   "license": "MIT",
   "peerDependencies": {
     "react": "^18.2.0",
-    "react-native": "^0.71.14"
+    "react-native": "^0.80.1"
   },
   "devDependencies": {
     "react": "^18.2.0",
-    "react-native": "^0.71.14"
+    "react-native": "^0.80.1"
   }
 }
